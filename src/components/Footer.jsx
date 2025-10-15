@@ -1,5 +1,5 @@
 import React from 'react';
-import ILM from '../assets/ILMlogo.jpeg';
+import ILM from '../assets/ilmlogo.jpeg';
 import dareechalogo from '../assets/dareechalogo.jpeg';
 export default function Footer() {
   return (
