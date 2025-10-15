@@ -7,7 +7,7 @@ export default function Testimonials() {
   const reviews = [
     {
       name: "Sara",
-      text: "I found peace through Thpki's words. It helped me open up about my emotions.",
+      text: "I found peace through Thapki's words. It helped me open up about my emotions.",
       avatar: "S"
     },
     {

@@ -14,13 +14,13 @@ export default function Navbar() {
   return (
     <nav
       className={`fixed w-full top-0 z-50 transition-all duration-500 ${
-        scrolled ? 'bg-black/95 backdrop-blur-md shadow-2xl' : 'bg-transparent'
+        scrolled ? 'bg-gradient-to-br from-slate-900 via-gray-900 to-black backdrop-blur-md shadow-2xl' : 'bg-transparent'
       }`}
       style={{ animation: 'slideDown 0.8s ease-out' }}
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <h1 className="text-2xl md:text-3xl font-bold text-green-400 hover:text-green-300 transition-colors duration-300">
-          Thpki Movement
+          Thapki Movement
         </h1>
         <div className="space-x-4 md:space-x-8">
           <a href="#about" className="text-white hover:text-green-400 transition-all duration-300 hover:scale-110 inline-block">About</a>

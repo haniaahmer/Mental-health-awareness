@@ -5,6 +5,8 @@ import AboutSection from '../components/AboutSection.jsx';
 import AwarenessSection from '../components/AwarenessSection.jsx';
 import Testimonials from '../components/Testimonials.jsx';
 import ContactSection from '../components/ContactForm.jsx';
+import CollaborativeOrganizations from '../components/CollaborativeOrganizations.jsx';
+import SingleCollaborators from '../components/SingleCollaborators.jsx';
 import Footer from '../components/Footer.jsx';
 
 export default function App() {
@@ -84,6 +86,8 @@ export default function App() {
       <AwarenessSection />
       <Testimonials />
       <ContactSection />
+      <CollaborativeOrganizations/>
+        <SingleCollaborators />
       <Footer />
     </div>
   );
