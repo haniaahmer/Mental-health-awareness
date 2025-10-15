@@ -18,7 +18,7 @@ export default function AboutSection() {
         </h3>
         <div className="bg-white/80 backdrop-blur-sm rounded-3xl p-10 shadow-2xl transform hover:scale-105 transition-all duration-500">
           <p className="text-xl leading-relaxed text-gray-800 mb-6">
-            Thpki is a symbol of <span className="text-green-700 font-bold">kindness</span>, 
+            Thapki is a symbol of <span className="text-green-700 font-bold">kindness</span>, 
             <span className="text-green-700 font-bold"> empathy</span>, and 
             <span className="text-green-700 font-bold"> listening</span>.
           </p>

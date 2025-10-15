@@ -3,13 +3,14 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation.js';
 import ksktlogo from '../assets/ksktlogo.jpeg';
 import FEWYAlogo from '../assets/FEWYA.jpeg';
 import shaheenlogo from '../assets/shaheen.jpeg';
+import mindbloomlogo from '../assets/MINDBLOOM.jpeg';
 
 // Logos data
 const logos = [
   { src: ksktlogo, alt: 'khud se khuda tak academy' },
   { src: FEWYAlogo, alt: ' Federal Empowerment for Youth and Women Alliance' },
   { src: shaheenlogo, alt: ' IGP Educational Services Private Limited' },
-  { src: 'https://via.placeholder.com/150/9C27B0/FFFFFF?text=Org4', alt: 'Collaborator 4' },
+  { src: mindbloomlogo, alt: ' Mind Bloom Insights' },
   { src: 'https://via.placeholder.com/150/E91E63/FFFFFF?text=Org5', alt: 'Collaborator 5' },
   { src: 'https://via.placeholder.com/150/F44336/FFFFFF?text=Org6', alt: 'Collaborator 6' },
   { src: 'https://via.placeholder.com/150/4CAF50/FFFFFF?text=Org1', alt: 'Collaborator 1' },
