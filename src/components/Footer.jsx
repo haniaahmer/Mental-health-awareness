@@ -1,5 +1,5 @@
 import React from 'react';
-import ILMlogo from '../assets/ILMlogo.jpeg';
+import ILM from '../assets/ILMlogo.jpeg';
 import dareechalogo from '../assets/dareechalogo.jpeg';
 export default function Footer() {
   return (
@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-center items-center gap-16 mb-16">
           <div className="w-45 h-45 rounded-full bg-white flex items-center justify-center shadow-lg transform hover:scale-105 transition-transform duration-300">
       <img
-        src={ILMlogo}
+        src={ILM}
         alt="ILM Logo"
         className="w-32 h-32 object-contain"
       />
