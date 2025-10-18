@@ -4,21 +4,34 @@ import ksktlogo from '../assets/ksktlogo.jpeg';
 import FEWYAlogo from '../assets/FEWYA.jpeg';
 import shaheenlogo from '../assets/shaheen.jpeg';
 import mindbloomlogo from '../assets/MINDBLOOM.jpeg';
-
+import Peakperformersociety from '../assets/PPFLOGO.jpeg';
+import Roohulquran from '../assets/RUQLOGO.jpeg';
+import   StudentSocietyForum from '../assets/SSF.jpeg';
+import PunjabLiterarySociety from '../assets/PLSLOGO.jpeg';
+import LearningHubwithAreebaSarwar from '../assets/LearningHUB.jpeg';
+import HopeHealingCenter from '../assets/HHCLOGO.jpeg';
+import SocialPassionSociety from '../assets/spsLOGO.jpeg';
+import AlIlmLearningSitePvtLtd from '../assets/al-ilmlogo.jpeg';
+import  LearnifyHub  from '../assets/LEARNIFYHUBLOGO.jpeg';
+import  MustaqbilFoundation  from '../assets/MFlogo.jpeg';
+import  MindSpectrum  from '../assets/mswslogo.jpeg';
 // Logos data
 const logos = [
   { src: ksktlogo, alt: 'khud se khuda tak academy' },
   { src: FEWYAlogo, alt: ' Federal Empowerment for Youth and Women Alliance' },
   { src: shaheenlogo, alt: ' IGP Educational Services Private Limited' },
   { src: mindbloomlogo, alt: ' Mind Bloom Insights' },
-  { src: 'https://via.placeholder.com/150/E91E63/FFFFFF?text=Org5', alt: 'Collaborator 5' },
-  { src: 'https://via.placeholder.com/150/F44336/FFFFFF?text=Org6', alt: 'Collaborator 6' },
-  { src: 'https://via.placeholder.com/150/4CAF50/FFFFFF?text=Org1', alt: 'Collaborator 1' },
-  { src: 'https://via.placeholder.com/150/2196F3/FFFFFF?text=Org2', alt: 'Collaborator 2' },
-  { src: 'https://via.placeholder.com/150/FF9800/FFFFFF?text=Org3', alt: 'Collaborator 3' },
-  { src: 'https://via.placeholder.com/150/9C27B0/FFFFFF?text=Org4', alt: 'Collaborator 4' },
-  { src: 'https://via.placeholder.com/150/E91E63/FFFFFF?text=Org5', alt: 'Collaborator 5' },
-  { src: 'https://via.placeholder.com/150/F44336/FFFFFF?text=Org6', alt: 'Collaborator 6' },
+  { src: Peakperformersociety, alt: ' Peak Performer Society' },
+  { src: Roohulquran, alt: ' Rooh ul Quran Academy' },
+  { src: StudentSocietyForum, alt: ' Student Societies Forum' },
+  { src: PunjabLiterarySociety, alt: ' Punjab Literary Society' },
+  { src: LearningHubwithAreebaSarwar, alt: ' Learning Hub with Areeba Sarwar' },
+  { src: HopeHealingCenter, alt: ' Hope Healing Center' },
+  { src: SocialPassionSociety, alt: ' Social Passion Society' },
+  { src: AlIlmLearningSitePvtLtd, alt: ' Al-Ilm Learning Site Pvt Ltd' },
+  { src: LearnifyHub, alt: ' Learnify Hub' },
+  { src: MustaqbilFoundation, alt: ' Mustaqbil Foundation' },
+  { src: MindSpectrum, alt: ' Mind Spectrum' }
 ];
 
 export default function CollaborativeOrganizations() {
