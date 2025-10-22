@@ -8,11 +8,11 @@ import Peakperformersociety from '../assets/PPFLOGO.jpeg';
 import Roohulquran from '../assets/RUQlogo.jpeg';
 import StudentSocietyForum from '../assets/SSF.jpeg';
 import PunjabLiterarySociety from '../assets/PLSLOGO.jpeg';
-import LearningHubwithAreebaSarwar from '../assets/LearningHUB.jpeg';
+import LearningHubwithAreebaSarwar from '../assets/LearningHUBlogo.jpeg';
 import HopeHealingCenter from '../assets/HHCLOGO.jpeg';
 import SocialPassionSociety from '../assets/spsLOGO.jpeg';
-import AlIlmLearningSitePvtLtd from '../assets/al-ilmlogo.jpeg';
-import  LearnifyHub  from '../assets/LEARNIFYHUBLOGO.jpeg';
+import AlIlmLearningSitePvtLtd from '../assets/alilmlogo.jpeg';
+import  LearnifyHub  from '../assets/LEARNIFYHUBlogo.jpeg';
 import  MustaqbilFoundation  from '../assets/MFlogo.jpeg';
 import  MindSpectrum  from '../assets/mswslogo.jpeg';
 // Logos data
