@@ -12,9 +12,9 @@ import LearningHubwithAreebaSarwar from '../assets/LearningHUBlogo.jpeg';
 import HopeHealingCenter from '../assets/HHCLOGO.jpeg';
 import SocialPassionSociety from '../assets/spsLOGO.jpeg';
 import AlIlmLearningSitePvtLtd from '../assets/alilmlogo.jpeg';
-import  LearnifyHub  from '../assets/LEARNIFYHUBlogo.jpeg';
-import  MustaqbilFoundation  from '../assets/MFlogo.jpeg';
-import  MindSpectrum  from '../assets/mswslogo.jpeg';
+import LearnifyHub from '../assets/LEARNIFYHUBLOGO.jpeg';
+import MustaqbilFoundation from '../assets/MFlogo.jpeg';
+import MindSpectrum  from '../assets/mswslogo.jpeg';
 // Logos data
 const logos = [
   { src: ksktlogo, alt: 'khud se khuda tak academy' },
