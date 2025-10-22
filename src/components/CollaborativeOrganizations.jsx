@@ -29,9 +29,9 @@ const logos = [
   { src: HopeHealingCenter, alt: ' Hope Healing Center' },
   { src: SocialPassionSociety, alt: ' Social Passion Society' },
   { src: AlIlmLearningSitePvtLtd, alt: ' Al-Ilm Learning Site Pvt Ltd' },
-  { src: LearnifyHub, alt: ' Learnify Hub' },
-  { src: MustaqbilFoundation, alt: ' Mustaqbil Foundation' },
-  { src: MindSpectrum, alt: ' Mind Spectrum' }
+  { src: LearnifyHub, alt: 'Learnify Hub' },
+  { src: MustaqbilFoundation, alt: 'Mustaqbil Foundation' },
+  { src: MindSpectrum, alt: 'Mind Spectrum' }
 ];
 
 export default function CollaborativeOrganizations() {
