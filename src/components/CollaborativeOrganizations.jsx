@@ -5,7 +5,7 @@ import FEWYAlogo from '../assets/FEWYA.jpeg';
 import shaheenlogo from '../assets/shaheen.jpeg';
 import mindbloomlogo from '../assets/MINDBLOOM.jpeg';
 import Peakperformersociety from '../assets/PPFLOGO.jpeg';
-import Roohulquran from '../assets/RUQLOGO.jpeg';
+import Roohulquran from '../assets/RUQlogo.jpeg';
 import StudentSocietyForum from '../assets/SSF.jpeg';
 import PunjabLiterarySociety from '../assets/PLSLOGO.jpeg';
 import LearningHubwithAreebaSarwar from '../assets/LearningHUB.jpeg';
