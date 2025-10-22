@@ -6,7 +6,7 @@ import shaheenlogo from '../assets/shaheen.jpeg';
 import mindbloomlogo from '../assets/MINDBLOOM.jpeg';
 import Peakperformersociety from '../assets/PPFLOGO.jpeg';
 import Roohulquran from '../assets/RUQLOGO.jpeg';
-import   StudentSocietyForum from '../assets/SSF.jpeg';
+import StudentSocietyForum from '../assets/SSF.jpeg';
 import PunjabLiterarySociety from '../assets/PLSLOGO.jpeg';
 import LearningHubwithAreebaSarwar from '../assets/LearningHUB.jpeg';
 import HopeHealingCenter from '../assets/HHCLOGO.jpeg';
@@ -31,7 +31,7 @@ const logos = [
   { src: AlIlmLearningSitePvtLtd, alt: ' Al-Ilm Learning Site Pvt Ltd' },
   { src: LearnifyHub, alt: ' Learnify Hub' },
   { src: MustaqbilFoundation, alt: ' Mustaqbil Foundation' },
-  { src: MindSpectrum, alt: ' Mind Spectrum' },
+  { src: MindSpectrum, alt: ' Mind Spectrum' }
 ];
 
 export default function CollaborativeOrganizations() {
