@@ -10,7 +10,7 @@ import StudentSocietyForum from '../assets/SSF.jpeg';
 import PunjabLiterarySociety from '../assets/PLSLOGO.jpeg';
 import LearningHubwithAreebaSarwar from '../assets/LearningHUBlogo.jpeg';
 import HopeHealingCenter from '../assets/HHCLOGO.jpeg';
-import SocialPassionSociety from '../assets/spsLOGO.jpeg';
+import SocialPassionSociety from '../assets/spslogo.jpeg';
 import AlIlmLearningSitePvtLtd from '../assets/alilmlogo.jpeg';
 import LearnifyHub from '../assets/LEARNIFYHUBLOGO.jpeg';
 import MustaqbilFoundation from '../assets/MFlogo.jpeg';
