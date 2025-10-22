@@ -15,6 +15,12 @@ import AlIlmLearningSitePvtLtd from '../assets/alilmlogo.jpeg';
 import LearnifyHub from '../assets/LEARNIFYHUBLOGO.jpeg';
 import MustaqbilFoundation from '../assets/MFlogo.jpeg';
 import MindSpectrum  from '../assets/mswslogo.jpeg';
+import ThePHYSC  from '../assets/physc_logo.jpeg';
+import PHYSCOLOGICALHEALTHWELLBEINGSOCIETY from '../assets/PHYSCHEALTHLOGO.jpeg';
+import SkillsStudio  from '../assets/sklogo.jpeg';
+import TheParentingReset  from '../assets/TPRlogo.jpeg';
+import TheYouthDevelopmentFoundation  from '../assets/ydf logo.jpeg';
+import ZohaAjmalMentalHealthConsultant from '../assets/ZALOGO.jpeg';
 // Logos data
 const logos = [
   { src: ksktlogo, alt: 'khud se khuda tak academy' },
@@ -31,7 +37,13 @@ const logos = [
   { src: AlIlmLearningSitePvtLtd, alt: ' Al-Ilm Learning Site Pvt Ltd' },
   { src: LearnifyHub, alt: 'Learnify Hub' },
   { src: MustaqbilFoundation, alt: 'Mustaqbil Foundation' },
-  { src: MindSpectrum, alt: 'Mind Spectrum' }
+  { src: MindSpectrum, alt: 'Mind Spectrum' },
+  { src: ThePHYSC, alt: 'The PHYSC' },
+  { src: PHYSCOLOGICALHEALTHWELLBEINGSOCIETY, alt: 'PHYSCOLOGICAL HEALTH & WELLBEING SOCIETY' },
+  { src: SkillsStudio, alt: 'Skills Studio Online Academy' },
+  { src: TheParentingReset, alt: 'The Parenting Reset' },
+  { src: TheYouthDevelopmentFoundation, alt: 'The Youth Development Foundation' },
+  { src: ZohaAjmalMentalHealthConsultant, alt: 'Zoha Ajmal Mental Health Consultant' }
 ];
 
 export default function CollaborativeOrganizations() {
