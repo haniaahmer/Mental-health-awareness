@@ -31,7 +31,7 @@ const logos = [
   { src: AlIlmLearningSitePvtLtd, alt: ' Al-Ilm Learning Site Pvt Ltd' },
   { src: LearnifyHub, alt: ' Learnify Hub' },
   { src: MustaqbilFoundation, alt: ' Mustaqbil Foundation' },
-  { src: MindSpectrum, alt: ' Mind Spectrum' }
+  { src: MindSpectrum, alt: ' Mind Spectrum' },
 ];
 
 export default function CollaborativeOrganizations() {
