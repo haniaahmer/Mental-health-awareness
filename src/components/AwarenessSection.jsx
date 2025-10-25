@@ -12,8 +12,8 @@ export default function AwarenessSection() {
       color: "from-blue-500 to-blue-600"
     },
     {
-      title: "Depression Awareness",
-      desc: "Understanding the signs, causes, and how to reach out for help.",
+      title: "Depression Services",
+      desc: "Sessions, webinars, mental health resources and awareness campaigns.",
       icon: "💙",
       color: "from-purple-500 to-purple-600"
     },

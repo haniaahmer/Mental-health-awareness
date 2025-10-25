@@ -17,7 +17,7 @@ export default function ContactForm() {
   };
 
   const handleJoinCommunity = () => {
-    window.open('https://chat.whatsapp.com/KYiMuzbfpyxE8I40BV6KOz?mode=wwt', '_blank');
+    window.open('https://chat.whatsapp.com/DDdL2f0jM6U3s7WCIrj3jb?mode=wwt', '_blank');
   };
 
   return (
